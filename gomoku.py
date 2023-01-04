@@ -11,7 +11,7 @@ Original file is located at
 """
 Created on Sat May 14 01:11:40 2022
 
-@author: matte
+@author: Mattéo et Linda
 """
 import time
 import numpy as np
